@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jamie Bland
 
-<!--
-**jamiebland/jamiebland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growth marketer and campaign manager working at the intersection
+of brand partnerships and the creator economy.
 
-Here are some ideas to get you started:
+Currently managing YouTube influencer campaigns at Clicks Talent
+across 1500+ creators and $10K-$50K creator deals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things with AI-native workflows.
+
+LinkedIn: linkedin.com/in/jamiebland
+Email: jamiebland98@gmail.com
+
+Projects:
+- Greenlight: payment logging system for a local Lisbon business
+- sassy: creator deal tracking platform
